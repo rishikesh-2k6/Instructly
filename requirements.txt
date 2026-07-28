@@ -1,0 +1,12 @@
+supabase
+python-dotenv
+pgvector
+pytest
+requests
+ollama
+pdfplumber
+pydantic
+pywin32
+Pillow
+uiautomation
+rapidfuzz
